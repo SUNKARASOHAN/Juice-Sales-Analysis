@@ -85,7 +85,7 @@ Clone the Repository
 Clone this repository to your local machine:
 
 
-git clone https://github.com/yourusername/juice-sales-analysis.git
+git clone https://github.com/SUNKARASOHAN/Juice-Sales-Analysis.git
 ## How to Use
 - Download or clone the repository.
 
